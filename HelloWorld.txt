@@ -1,4 +1,4 @@
 Hello !!!
 
 versionControl
-Hi collabrated succesfully
+Hi collabrated successfully
